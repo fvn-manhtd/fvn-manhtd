@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fvn-manhtd)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvn-manhtd&layout=compact&theme=vision-friendly-dark)](https://github.com/fvn-manhtd/github-readme-stats)
