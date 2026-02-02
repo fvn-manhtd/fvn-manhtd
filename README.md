@@ -14,6 +14,6 @@
 
 ## 🚀 Recent Projects
 
-<a href="https://github.com/fvn-manhtd/ViceCaption">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=fvn-manhtd&repo=ViceCaption&theme=transparent" />
-</a>
+- 🔗 [Reshite.app](https://reshite.app/)
+- 🔗 [SeikyuuCanvas](https://seikyuu-canvas-pro.vercel.app/)
+- 🔗 [ViceCaption](https://github.com/fvn-manhtd/ViceCaption)
