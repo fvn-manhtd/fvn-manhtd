@@ -15,5 +15,5 @@
 ## 🚀 Recent Projects
 
 - 🔗 <a href="https://reshite.app/" target="_blank" rel="noopener noreferrer">Reshite.app</a>
-- 🔗 <a href="https://seikyuu-canvas-pro.vercel.app/" target="_blank" rel="noopener noreferrer">SeikyuuCanvas</a>
+- 🔗 <a href="https://seikyuu-canvas-pro.vercel.app/" target="_blank" rel="noopener noreferrer">Seikyuu Canvas</a>
 - 🔗 <a href="https://github.com/fvn-manhtd/ViceCaption" target="_blank" rel="noopener noreferrer">ViceCaption</a>
