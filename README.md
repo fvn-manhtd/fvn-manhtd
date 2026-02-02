@@ -1,3 +1,3 @@
-### Hi there 👋
+### こんにちは
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvn-manhtd&layout=compact&theme=vision-friendly-dark)](https://github.com/fvn-manhtd/github-readme-stats)
+[![開発言語](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fvn-manhtd)](https://github.com/fvn-manhtd/github-readme-stats-fast)
